@@ -21,5 +21,6 @@ model:
 Do not run python files except main.py .
 
 ## Model Structure
+More about our model: https://github.com/jiamiya/LinkPrediction-on-Directed-Signed-Graph/blob/main/report.pdf
 ![image](https://github.com/jiamiya/LinkPrediction-on-Directed-Signed-Graph/blob/main/model.png)
 
